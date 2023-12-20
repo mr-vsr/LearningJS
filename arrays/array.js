@@ -1,3 +1,5 @@
+//Here we have dsicussed in detail about arrays and its declaration and various options and some important concepts and methods
+
 // => Declaration of Arrays
 
 // let myArr = [1, true, "hello"]

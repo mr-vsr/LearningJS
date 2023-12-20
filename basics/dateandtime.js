@@ -1,3 +1,7 @@
+//In this file we have discussed about date and time object available in javascript in detail
+
+
+
 //Date
 
 let date = new Date()

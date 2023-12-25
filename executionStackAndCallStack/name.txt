@@ -1,0 +1,17 @@
+/* 
+
+Execution stack in javascript
+
+1. Global Execution stack => empty object in node environment and window object in browser
+2. Function/Functional Execution stack
+3. Eval Execution stack
+
+Execution of a javascript program
+
+Memory creation phase => In this phase all the variables and objects are allocated Memory
+Execution Phase => In this phase all the operation takes place
+
+
+
+
+*/

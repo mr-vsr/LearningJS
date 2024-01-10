@@ -1,6 +1,6 @@
 # JavaScript Learning Journey
 
-#### Overview
+### Overview
 
 Welcome to my JavaScript Learning Journey repository! 
 This is where I'll be documenting my progress and experiences as 

@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fff;
+    color: #212121
+}
+.main{
+    display: flex;
+    flex-direction: rows;
+    gap: 4rem;
+    padding: 2rem;
+}
+
+.button{
+    width: 15rem;
+    height: 10rem;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 3em;
+}
+#grey{
+    background-color: grey;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
+#red{
+    background-color: red;
+}

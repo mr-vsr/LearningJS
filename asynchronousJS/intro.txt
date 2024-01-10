@@ -1,0 +1,10 @@
+Javascript is asynchronous and single threaded language.
+Execution context => js code executes line by line and each operation wait for the previous one to execute first.
+
+Blocking Code(Synchronous)   Vs   Non Blocking Code (Non Synchronous)
+      Example                                      |       Example
+ Read file sync                                 | Read file async
+                                                             |
+                                                             |
+                                                             |
+                                                             |
